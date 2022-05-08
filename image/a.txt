@@ -5,6 +5,7 @@
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 <body>
+<image src="hanhtrinhdo.jpg" width="1000" height="800">
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
